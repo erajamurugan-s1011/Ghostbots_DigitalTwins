@@ -1,0 +1,10 @@
+Name: Raj 
+Course: CSE AI&ML 
+Interests: 
+AI 
+Machine Learning 
+Cricket 
+Movies 
+Goals: 
+Become AI Engineer 
+Work in startups
